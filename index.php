@@ -1,4 +1,5 @@
 <?php include 'sendemail.php'; ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -105,8 +106,8 @@
     <!--contact section start-->
     <div class="contact-section">
       <div class="contact-info">
-        <div><i class="fas fa-envelope"></i>racheltamayo.0929@email.com</div>
         <div><i class="fas fa-phone"></i>+63 9462 535 785</div>
+        <div><i class="fas fa-envelope"></i>racheltamayo. 0929@gmail.com</div>
         <div><i class="fas fa-clock"></i>Mon - Fri 8:00 AM to 5:00 PM</div>
       </div><br>
       <div class="contact-form">
@@ -176,5 +177,3 @@ audio.volume = 0.3;</script>
         });
     </script>
 </html>
-
-
